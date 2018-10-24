@@ -1,0 +1,63 @@
+.text-espani{
+    color: #6f0812;
+    text-shadow: 4px 4px 2px rgba(150, 150, 150, 1);
+}
+
+.txt-Subtitulos{
+    color: #6f0812;
+}
+
+#header .nav-link{
+    color: rgba(249, 245, 245, .95) !important;
+}
+
+#header .nav-item {
+    border-left: 1px solid #f8f9fa3b;
+}
+
+#header .itemfirst {
+    border:none !important;
+}
+
+#header .nav-link:hover{
+    color: rgb(116, 191, 125) !important;
+}
+
+#header .nav-link:active{
+    color: rgb(116, 191, 125) !important;
+    font-weight: bold !important;
+}
+
+#header .dropdown-menu{
+    background-color: #8b949d !important;
+}
+
+#header .dropdown-item:focus, .dropdown-item:hover {
+    color: #ffffff !important;
+    background-color: #495057bf !important;
+}
+
+#footer{
+    background-color: #343a40 !important;
+    color: white !important;
+}
+
+#footer a{
+    color: white;
+}
+
+.modal-header{
+    border-bottom: 3px solid #094215 !important;
+    background-color: #0f421775 !important;
+}
+
+.modal-content{
+    border: 1px solid #094215 !important;
+}
+
+@media (min-width: 992px){
+    .modal-lg {
+        max-width: 1000px !important;
+    }
+}
+
