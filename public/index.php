@@ -97,7 +97,7 @@ switch (ENVIRONMENT)
  * This variable must contain the name of your "system" directory.
  * Set the path if it is not in the same directory as this file.
  */
-	$system_path = 'C:/xampp/htdocs/sconic/private/system';
+	$system_path = 'C:/xampp/htdocs/SCII/private/system';
 
 /*
  *---------------------------------------------------------------
@@ -114,7 +114,7 @@ switch (ENVIRONMENT)
  *
  * NO TRAILING SLASH!
  */
-	$application_folder = 'C:/xampp/htdocs/sconic/private/application';
+	$application_folder = 'C:/xampp/htdocs/SCII/private/application';
 
 /*
  *---------------------------------------------------------------
